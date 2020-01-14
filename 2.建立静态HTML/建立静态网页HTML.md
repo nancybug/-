@@ -126,4 +126,4 @@ mysqli_close($connect);
 
 最终结果：
 
-![01](01.png)
+![01](/01.png)
